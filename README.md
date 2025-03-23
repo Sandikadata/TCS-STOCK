@@ -1,4 +1,4 @@
-# TCS STOCK INTERNSHIP PROJECT#
+# TCS STOCK INTERNSHIP PROJECT
 
  Tata Consultancy Services (TCS) is an Indian multinational information technology (IT)
  services and consulting company headquartered in Mumbai, Maharashtra, India with
